@@ -1,7 +1,23 @@
-# System Design — Yalla Hagz
+## System Design
 
-## Phase 1: Requirements Exploration (RADIO Framework)
+![System Design](./design.svg)
 
-![Requirements](./requirements.png)
+### R - Requirements
 
-Open `requirements.excalidraw` in [Excalidraw](https://excalidraw.com) to edit.
+...
+
+### A - Architecture
+
+...
+
+### D - Data Model
+
+...
+
+### I - Interface
+
+...
+
+### O - Optimizations
+
+...
